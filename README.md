@@ -151,8 +151,6 @@ OPEN → ACCEPTED → IN_PROGRESS → COMPLETED
 |---|---|
 | ![Requester](screenshots/requester.jpeg) | ![Create Errand](screenshots/requesterCreateErrand.jpeg) |
 
-![Requester Home](screenshots/requesterHome.jpeg)
-
 ### Runner
 
 | Runner Dashboard | Accepted Errand |
