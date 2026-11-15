@@ -136,29 +136,22 @@ OPEN → ACCEPTED → IN_PROGRESS → COMPLETED
 - Role-based authorization restricts operations.
 - Environment variables are used for sensitive configuration.
 
-## Screenshots
 
 ## Application Screenshots
 
-### Authentication
+The following screenshots demonstrate the application's user interface and functionality.
 
-| Login | Registration |
+| Screenshot File | Description |
 |---|---|
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
+| `login` | User login screen |
+| `register` | User registration with role selection |
+| `requester` | Requester dashboard displaying created errands |
+| `requesterCreateErrand` | Form for creating a new errand |
+| `requesterHome` | Requester dashboard when no errands are available |
+| `runner` | Runner dashboard displaying available errands |
+| `runnerAcceptErrand` | Runner dashboard showing an accepted errand and its progress |
 
-### Requester
 
-| Requester Dashboard | Create Errand |
-|---|---|
-| ![Requester](screenshots/requester.png) | ![Create Errand](screenshots/requesterCreateErrand.png) |
-
-![Requester Home](screenshots/requesterHome.png)
-
-### Runner
-
-| Runner Dashboard | Accepted Errand |
-|---|---|
-| ![Runner](screenshots/runner.png) | ![Runner Accept Errand](screenshots/runnerAcceptErrand.png) |
 
 ## Future Improvements
 
