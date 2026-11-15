@@ -139,17 +139,25 @@ OPEN → ACCEPTED → IN_PROGRESS → COMPLETED
 
 ## Application Screenshots
 
-The following screenshots demonstrate the application's user interface and functionality.
+### Authentication
 
-| Screenshot File | Description |
+| Login | Registration |
 |---|---|
-| `login` | User login screen |
-| `register` | User registration with role selection |
-| `requester` | Requester dashboard displaying created errands |
-| `requesterCreateErrand` | Form for creating a new errand |
-| `requesterHome` | Requester dashboard when no errands are available |
-| `runner` | Runner dashboard displaying available errands |
-| `runnerAcceptErrand` | Runner dashboard showing an accepted errand and its progress |
+| ![Login](screenshots/login.jpeg) | ![Register](screenshots/register.jpeg) |
+
+### Requester
+
+| Requester Dashboard | Create Errand |
+|---|---|
+| ![Requester](screenshots/requester.jpeg) | ![Create Errand](screenshots/requesterCreateErrand.jpeg) |
+
+![Requester Home](screenshots/requesterHome.jpeg)
+
+### Runner
+
+| Runner Dashboard | Accepted Errand |
+|---|---|
+| ![Runner](screenshots/runner.jpeg) | ![Runner Accept Errand](screenshots/runnerAcceptErrand.jpeg) |
 
 
 
