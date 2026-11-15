@@ -139,23 +139,26 @@ OPEN → ACCEPTED → IN_PROGRESS → COMPLETED
 
 ## Application Screenshots
 
-### Authentication
+### 1. Login
+![Login](screenshots/login.jpeg)
 
-| Login | Registration |
-|---|---|
-| ![Login](screenshots/login.jpeg) | ![Register](screenshots/register.jpeg) |
+### 2. Registration
+![Register](screenshots/register.jpeg)
 
-### Requester
+### 3. Requester Dashboard
+![Requester](screenshots/requester.jpeg)
 
-| Requester Dashboard | Create Errand |
-|---|---|
-| ![Requester](screenshots/requester.jpeg) | ![Create Errand](screenshots/requesterCreateErrand.jpeg) |
+### 4. Create New Errand
+![Create Errand](screenshots/requesterCreateErrand.jpeg)
 
-### Runner
+### 5. Requester Home
+![Requester Home](screenshots/requesterHome.jpeg)
 
-| Runner Dashboard | Accepted Errand |
-|---|---|
-| ![Runner](screenshots/runner.jpeg) | ![Runner Accept Errand](screenshots/runnerAcceptErrand.jpeg) |
+### 6. Runner Dashboard
+![Runner](screenshots/runner.jpeg)
+
+### 7. Runner Accepts Errand
+![Runner Accept Errand](screenshots/runnerAcceptErrand.jpeg)
 
 
 
