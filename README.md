@@ -138,7 +138,28 @@ OPEN → ACCEPTED → IN_PROGRESS → COMPLETED
 
 ## Screenshots
 
-Application screenshots will be added here.
+## Application Screenshots
+
+### 1. Login
+![Login](screenshots/login.png)
+
+### 2. Registration
+![Register](screenshots/register.png)
+
+### 3. Requester Dashboard
+![Requester](screenshots/requester.png)
+
+### 4. Create New Errand
+![Create Errand](screenshots/requesterCreateErrand.png)
+
+### 5. Requester Home
+![Requester Home](screenshots/requesterHome.png)
+
+### 6. Runner Dashboard
+![Runner](screenshots/runner.png)
+
+### 7. Runner Accepts Errand
+![Runner Accept Errand](screenshots/runnerAcceptErrand.png)
 
 ## Future Improvements
 
