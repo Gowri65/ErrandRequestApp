@@ -11,3 +11,33 @@ build/
 .pub-cache/
 .idea/
 .vscode/
+
+# Node generated files
+**/node_modules/
+**/dist/
+**/*.tsbuildinfo
+**/*.js.map
+**/*.d.ts
+
+# Flutter generated files
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins*
+mobile/.packages
+mobile/.pub-cache/
+mobile/android/.gradle/
+mobile/android/local.properties
+mobile/ios/Flutter/Generated.xcconfig
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+# AI tool configuration
+**/.agents/
+**/.claude/
+**/.windsurf/
+
+# Generated JavaScript
+**/jest.config.js
+**/prisma7.config.js
